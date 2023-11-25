@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-barahona",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Hilas/proyecto-barahona.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hilas/proyecto-barahona/issues"
+  },
+  "homepage": "https://github.com/Hilas/proyecto-barahona#readme",
+  "dependencies": {
+    "cypress": "^13.6.0"
+  }
+}
